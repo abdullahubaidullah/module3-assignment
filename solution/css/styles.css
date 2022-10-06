@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+	background-color: #61122F;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#61122F; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #61122F;
+}
+.navbar-brand{
+font-size: 30px;	
+}
+.title{
+  margin: 30px 0px;
+}
+.button{
+  margin: 40px 45%;
+}
+.menu{
+  margin: 30px 0px;
+  
+	font-size: 30px;
+}
+.profile{
+  text-align: center;
+  color: white;
+}
+.icon{
+  color: blue;
+}
+#me{
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
